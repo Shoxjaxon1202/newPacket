@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+.container {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 22px 10px;
+  border-radius: 5px;
+}
+.agranom {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+.agranom,
+header {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.yillar {
+  align-items: center;
+  font-weight: 300px;
+  margin: 20px 350px;
+}
+li {
+  padding: 10px;
+}
+a {
+  color: rgb(102, 102, 249);
+}
+.footer {
+  color: rgb(67, 67, 67);
+}
+span {
+  font-weight: bold;
+}
